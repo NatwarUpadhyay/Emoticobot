@@ -71,7 +71,7 @@ To move on and grow, a project focused on emotional chatbots would likely need a
 ![8-NbkHwVR38u0jjBK](https://user-images.githubusercontent.com/91323575/222825345-2be75b0f-174c-4e25-916a-9246b30a1011.png)
 
 
-	## Major Shoutout!
+## Major Shoutout!
 https://realpython.com/build-a-chatbot-python-chatterbot/
 by Martin Breuss
 
