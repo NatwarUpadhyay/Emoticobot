@@ -85,6 +85,7 @@ https://www.wired.com/story/replika-open-source/
 by Arielle Pardes
 
 
+##------------------------------------------------------------------------------------
 Thankyou,
 Natwar Upadhyay
 upadhyay.suraj09@gmail.com
