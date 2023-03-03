@@ -67,6 +67,7 @@ Integrate with other healthcare systems: Emotional chatbots could be integrated 
 Multilingual support: Emotional chatbots could be developed to support multiple languages, making them accessible to a wider range of users.
 Personalized emotional support: Emotional chatbots could be further developed to provide even more personalized emotional support, based on a user's individual preferences, needs, and emotions.
 To move on and grow, a project focused on emotional chatbots would likely need a team with a diverse set of skills, including expertise in natural language processing (NLP), machine learning, psychology, and healthcare. The team would also need access to a large dataset of emotional interactions and feedback to train and improve the chatbot's emotional support capabilities. Additionally, collaboration with mental health professionals and stakeholders in the healthcare industry would be crucial to ensure the chatbot is developed and deployed in an ethical and effective way.
+
 ![8-NbkHwVR38u0jjBK](https://user-images.githubusercontent.com/91323575/222825345-2be75b0f-174c-4e25-916a-9246b30a1011.png)
 
 
@@ -83,5 +84,7 @@ by Bardia Eshghi
 https://www.wired.com/story/replika-open-source/
 by Arielle Pardes
 
-Thankyou.
 
+Thankyou,
+Natwar Upadhyay
+upadhyay.suraj09@gmail.com
