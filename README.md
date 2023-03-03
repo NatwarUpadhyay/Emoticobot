@@ -2,9 +2,9 @@
 
 ![Fotor_AI](https://user-images.githubusercontent.com/91323575/222813158-b9b63d5e-b028-4779-a3d4-9fccaef6f56f.png)
 
-## Healthy Braincells!
+## Summary
 
-Trying to Secure Information on creating a free-for-all, effective "Emotional AI" , for keeping individual's mental issues at bay, as the present AI like Replika, Woebot, Wysa, Tess, Joy and many more, are trained to assess the emotion but in a very limited way, due to lack of training data,their design and interface.
+Trying to Secure Information on creating a free-for-all, effective "Emotional AI" , for keeping individual's mental issues at bay, as the present AI like Replika, Woebot, Wysa, Tess, Joy and many more, are trained to assess the emotion but in a very limited way, due to lack of training data,their design and interface.I am able to understand the basics as well as advanced aspects of AI tools implementations with the help of University of Helsinki's program - "Building AI course project".
 
 
 ## Tough Times
@@ -15,7 +15,7 @@ My personal motivation behind this idea is that I have seen many close ones gett
 So the main idea behind bringing these kinds of bots with effective skills trained by not only software developers but also medical experts, so that we can bring anonymity and accessibility to almost every individual who will be able to self-treat themselves without any prejudices, or time loss. Though the Virtual Sessions along with Medical Experts are very effective to keep this situation checked, I am sure that we can harness the newer GPT-4 version AI’s power and expect to see such ideas coming to life and deliver a personalized, scalable and cost-effective solution for the affected masses.
 
 
-## Glipsed View
+## At a Glance
 
 The process consists of coordinated efforts of the technical and medical departments from identifying the target audience to releasing the application with healthcare bodies' collaboration and implementing certain policies and standards for this kind of app and its exploitation.
 
@@ -84,6 +84,8 @@ by Bardia Eshghi
 https://www.wired.com/story/replika-open-source/
 by Arielle Pardes
 
+https://www.helsinki.fi/en
+Building AI by Linus Torvalds
 
 ##-----------------------------------------------------------------------------------------------------------------------------------------
 
